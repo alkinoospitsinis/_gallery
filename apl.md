@@ -1,5 +1,5 @@
 ---
-author: alkinoospitsinis
+author:  alkinoospitsinis
 image_url: /images/apl.png
 image_thumb: /images/apl-thumb.png
 year: 1960
